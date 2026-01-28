@@ -18,16 +18,16 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 const dinnerMenus = [
-    { name: "김치찌개", imageUrl: "https://picsum.photos/seed/kimchi/400/300" },
-    { name: "된장찌개", imageUrl: "https://picsum.photos/seed/doenjang/400/300" },
-    { name: "삼겹살", imageUrl: "https://picsum.photos/seed/samgyeopsal/400/300" },
-    { name: "치킨", imageUrl: "https://picsum.photos/seed/chicken/400/300" },
-    { name: "피자", imageUrl: "https://picsum.photos/seed/pizza/400/300" },
-    { name: "초밥", imageUrl: "https://picsum.photos/seed/sushi/400/300" },
-    { name: "파스타", imageUrl: "https://picsum.photos/seed/pasta/400/300" },
-    { name: "떡볶이", imageUrl: "https://picsum.photos/seed/tteokbokki/400/300" },
-    { name: "부대찌개", imageUrl: "https://picsum.photos/seed/budae/400/300" },
-    { name: "곱창", imageUrl: "https://picsum.photos/seed/gopchang/400/300" }
+    { name: "김치찌개", imageUrl: "images/kimchi.jpg" },
+    { name: "된장찌개", imageUrl: "images/doenjang.jpg" },
+    { name: "삼겹살", imageUrl: "images/samgyeopsal.jpg" },
+    { name: "치킨", imageUrl: "images/chicken.jpg" },
+    { name: "피자", imageUrl: "images/pizza.jpg" },
+    { name: "초밥", imageUrl: "images/sushi.jpg" },
+    { name: "파스타", imageUrl: "images/pasta.jpg" },
+    { name: "떡볶이", imageUrl: "images/tteokbokki.jpg" },
+    { name: "부대찌개", imageUrl: "images/budae.jpg" },
+    { name: "곱창", imageUrl: "images/gopchang.jpg" }
 ];
 
 const recommendBtn = document.getElementById('recommend-btn');
